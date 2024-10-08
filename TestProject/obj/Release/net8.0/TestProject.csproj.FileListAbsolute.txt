@@ -1,0 +1,15 @@
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/TestProject
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/TestProject.deps.json
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/TestProject.runtimeconfig.json
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/TestProject.dll
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/TestProject.pdb
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.AssemblyInfo.cs
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.dll
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/refint/TestProject.dll
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.pdb
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.genruntimeconfig.cache
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/ref/TestProject.dll
+/home/sloyka/csharp/TestProject/obj/Release/net8.0/TestProject.sourcelink.json

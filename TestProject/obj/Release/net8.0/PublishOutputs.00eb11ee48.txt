@@ -1,0 +1,5 @@
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/publish/TestProject
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/publish/TestProject.dll
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/publish/TestProject.deps.json
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/publish/TestProject.runtimeconfig.json
+/home/sloyka/csharp/TestProject/bin/Release/net8.0/publish/TestProject.pdb
